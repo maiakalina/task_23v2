@@ -1,4 +1,6 @@
-print("This application will help you calculate the cost of your holiday. Please answer the questions below.")
+print("Welcome to the Holiday Cost Calculator!"
+"Planning your dream vacation? Let us help you estimate the total cost of your holiday adventure." 
+"Simply answer a few quick questions below, and we'll provide you with an estimate tailored to your preferences and budget.")
 city_flight = input("Choose a destination from the list: Paris, Lisbon, Milan, Oslo ")
 num_nights = int(input("Enter the number of nights for your stay "))
 rental_days = int(input("Enter the number of days for your car rental "))
