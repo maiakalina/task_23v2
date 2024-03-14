@@ -32,6 +32,7 @@ rental_days = int(input("Enter the number of days for your car rental "))
 total_cost = total_holiday_cost(hotel_cost(num_nights), plane_cost(city_flight), car_rental(rental_days))
 print(f"The total cost of your trip to {city_flight} for {num_nights} nights with a {rental_days}-day car rental is £{total_cost}")
 
+
 ## Author
 
 Maïa Kalina
